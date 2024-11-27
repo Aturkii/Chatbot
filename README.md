@@ -2,6 +2,10 @@
 
 This Chatbot Inventory Management System allows users to perform CRUD operations on products through a chatbot interface, making it easier to manage your inventory interactively. You can add, update, delete, and view products in stock using simple conversational commands.
 
+# Front end repository
+https://github.com/Aturkii/chatbot-interface
+
+
 ---
 
 ## Table of Contents
